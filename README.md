@@ -30,3 +30,8 @@ symfony server:start
 ```
 make sure to replace the auth-token with the one setup in your env config.
 ```
+
+### Unit Tests:
+```
+php bin/phpunit
+```
